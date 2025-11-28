@@ -27,24 +27,8 @@ Rolling Window (10 years) – Uses only the most recent 40 quarters, improving a
 
 Both variants are compared against the Riksbank’s own GDP growth projections.
 
-📁 Repository Structure
-Sweden-GDP-ML-Forecasting/
-│
-├── code/
-│   └── random_forest_gdp_forecast.py      # Main forecasting script
-│
-├── data/
-│   └── Cleaned_ERA_xlsx_Sheet.csv         # Not included in repo due to licensing
-│
-├── results/
-│   ├── RandomForest_expanding_results.csv
-│   ├── RandomForest_rolling_results.csv
-│
-└── README.md
-
 
 Note: The dataset from Statistics Sweden (SCB), FRED, and the Riksbank is not included due to licensing.
-A placeholder file in data/ explains how to retrieve the necessary data.
 
 🧠 What the Script Does
 
@@ -168,3 +152,4 @@ Due to licensing restrictions, these datasets are not redistributed in the repos
 This repository supports the empirical study “Adaptive Machine Learning Forecasts of Swedish GDP Growth (1985–2024)”.
 
 The code was developed by Luca Masciavè as part of an academic research project in macroeconomic forecasting.
+
