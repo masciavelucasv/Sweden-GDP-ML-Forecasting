@@ -1,4 +1,4 @@
-🇸🇪 Machine Learning Forecasts of Swedish GDP Growth (1985–2024)
+# Machine Learning Forecasts of Swedish GDP Growth (1985–2024)
 
 This repository contains the code and materials for an empirical forecasting study on Sweden’s real GDP growth.
 The project evaluates whether modern machine learning methods—specifically Random Forests with expanding and rolling windows—can outperform the Riksbank’s official GDP forecasts.
@@ -166,4 +166,5 @@ Due to licensing restrictions, these datasets are not redistributed in the repos
 ✨ Acknowledgements
 
 This repository supports the empirical study “Adaptive Machine Learning Forecasts of Swedish GDP Growth (1985–2024)”.
+
 The code was developed by Luca Masciavè as part of an academic research project in macroeconomic forecasting.
