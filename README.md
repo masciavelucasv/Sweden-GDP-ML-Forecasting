@@ -1,8 +1,4 @@
 # Machine Learning Forecasts of Swedish GDP Growth (1985–2024)
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-orange?logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Research-purple)
 This repository contains the code and materials for an empirical forecasting study on Sweden’s real GDP growth.
 The project evaluates whether modern machine learning methods—specifically Random Forests with expanding and rolling windows—can outperform the Riksbank’s official GDP forecasts.
 
